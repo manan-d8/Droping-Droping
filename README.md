@@ -11,6 +11,8 @@ Its a simple droping balls game
 
   - ##### Run Python File
     - ``` python Droping-Droping.py ```
-    
-    
-![Screen Shot 1]()
+
+## Screen Shots Of Games
+
+![Screen Shot 1](https://github.com/manan-d8/Droping-Droping/blob/master/ScreenShots/Image1.PNG)
+![Screen Shot 3](https://github.com/manan-d8/Droping-Droping/blob/master/ScreenShots/Image3.PNG)
